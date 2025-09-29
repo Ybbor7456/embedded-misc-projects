@@ -1,0 +1,24 @@
+# PlatformIO / build
+.pio/
+.cmake/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# VS Code
+.vscode/.browse.*
+.vscode/c_cpp_properties.json
+.vscode/ipch/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# UF2s & binaries you may generate locally
+*.uf2
+*.elf
+*.bin
