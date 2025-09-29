@@ -1,4 +1,4 @@
-# embedded-misc-projects
+### embedded-misc-projects
 A collection of small, focused embedded projects to reinforce fundamentals—both electronics and firmware—on the Raspberry Pi Pico (RP2040)
 
 It's nice to be able to be bale to step away from long-term projects. Sometimes parts needs to be ordered, sometimes there's a mental block, and sometimes you just need a short break. 
@@ -11,6 +11,7 @@ the process of ADC and the internal workings of the MCU.
 Currently, I have six projects planned out to reinform me of the basics. 
 # UART Debug Console # 
 # ADC Light Meter #
+  https://youtube.com/shorts/6ekCRUMNKXI?si=zQe3WsYIuY6thRNA
 # PWM LED Dimmer #
 # SPI Sensor and Display #
 # Button Interrupts with Debouncing #
