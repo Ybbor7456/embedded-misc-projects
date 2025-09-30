@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 // Pins (Pico)
-const int ADC_PIN = A0;      // GP26
+const int ADC_PIN = A0;      // GP26 a0
 const int PWM_PIN = 15;      // GP15, only switch from prev project
 
 // Settings
