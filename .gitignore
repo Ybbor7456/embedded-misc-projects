@@ -22,3 +22,4 @@ Thumbs.db
 *.uf2
 *.elf
 *.bin
+test/
