@@ -20,7 +20,7 @@ const int VREF = 5;
 const int ADCMAX = 1023; //may be different on Uno 
 constexpr int POT_PIN = A0; 
 constexpr int BTN_PIN = 2;
- 
+
 enum class Page: int{Menu, Tuner, Settings, About};
 Page activePage = Page::Menu;      
 uint8_t menuIndex = 0; 
